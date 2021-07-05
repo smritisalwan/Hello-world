@@ -1,3 +1,4 @@
-# This program prints Hello, world!
+# This program prints Hello, world! and xyz
 
 print('Hello, world!')
+print('XYZ')
